@@ -1,0 +1,32 @@
+#make {
+color: rgb(6, 6, 247);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#users {
+    padding-right: 5pc;
+    border-color: gold;
+    height: 9vh;
+    border-radius: 15px;
+    justify-content: center;
+}
+
+#mr {
+    background-image: url(cart.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#myTable{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+::placeholder{
+    font-style: italic;
+    padding: 15pc;
+    font-weight: bold;
+}
